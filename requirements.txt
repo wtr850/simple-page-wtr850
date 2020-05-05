@@ -21,9 +21,9 @@ chainer==6.4.0
 chardet==3.0.4
 click==7.1.1
 conda
-conda-build==3.18.11
-conda-package-handling==1.6.0
-conda-verify==3.4.2
+conda-build
+conda-package-handling
+conda-verify
 cryptography==2.8
 cycler==0.10.0
 cymem==2.0.2
